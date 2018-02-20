@@ -1,0 +1,52 @@
+{
+  "Dashboard": {
+    "-dash1506536727769": {
+      "dash_label": "Users",
+      "dash_icon": "face",
+      "dash_color": "pink",
+      "dash_value": 120,
+      "dash_lastUpdate": "1506536727769"
+    }
+  },
+  "Food" : {
+    "Items" : {
+      "-item01079" : {
+        "category" : "Unspecified",
+        "measure" : "1.0 cup",
+        "name" : "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+        "ndbno" : "01079",
+        "nutrients" : [ {
+          "gm" : 0,
+          "nutrient" : "Fiber, total dietary",
+          "nutrient_id" : "291",
+          "unit" : "g",
+          "value" : "0.0"
+        }]
+      }
+    }
+  },
+  "FoodPlaces" : {
+    "-placeH3z1Rzb6tWHbOJw7ISne" : {
+      "approved" : true,
+      "image" : "",
+      "name" : "name",
+      "uuid" : "uuid"
+    }
+  },
+  "Users" : {
+    "-userrULCRkaTQONCCOSgUcYPxJCMfel2" : {
+      "date" : "date",
+      "email" : "email",
+      "uuid" : "uuid",
+      "givenName": "given name",
+      "familyName": "family name"
+    }
+  },
+  "News" : {
+    "-news1506536727327" : {
+      "title" : "",
+      "body" : "",
+      "uuid" : "uuid"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "-dash1506536727769": {
+      "dash_label": "Users",
+      "dash_icon": "face",
+      "dash_color": "pink",
+      "dash_value": 120,
+      "uuid": "1506536727769"
+    },
+    "-dash1506536727733" : {
+      "dash_label": "Messages",
+      "dash_icon": "message",
+      "dash_color": "red",
+      "dash_value": 349,
+      "uuid": "1506536727733"
+    },
+    "-dash1506536727327" : {
+      "dash_label": "Likes",
+      "dash_icon": "favorite-border",
+      "dash_color": "red",
+      "dash_value": 47,
+      "uuid": "1506536727327"
+    }
+}
